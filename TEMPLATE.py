@@ -1,0 +1,6 @@
+'''
+Leetcode
+
+Finish date:
+Algorithm:
+'''
