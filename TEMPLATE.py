@@ -1,6 +1,6 @@
-'''
+"""
 Leetcode
 
 Finish date:
 Algorithm:
-'''
+"""
