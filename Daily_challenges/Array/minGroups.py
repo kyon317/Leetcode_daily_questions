@@ -11,8 +11,9 @@ from typing import List
 
 class Solution:
     """MinHeap"""
+
     def minGroups(self, intervals: List[List[int]]) -> int:
-        intervals.sort(key = lambda x: x[0])
+        intervals.sort(key=lambda x: x[0])
         h = []
         for start, end in intervals:
             # overlap, create new heap
