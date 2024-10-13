@@ -4,6 +4,9 @@ https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/desc
 Finish date: 2024-10-12
 Algorithm: Greedy, MinHeap
 """
+import heapq
+from typing import List
+
 
 class Solution:
     def smallestRange(self, nums: List[List[int]]) -> List[int]:
