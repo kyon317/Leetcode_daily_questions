@@ -2,7 +2,7 @@
 Leetcode 2109. Adding Spaces to a String
 https://leetcode.com/problems/adding-spaces-to-a-string/description/
 Finish date: 2024-12-02
-Algorithm: Simluation
+Algorithm: Simulation
 """
 from typing import List
 
